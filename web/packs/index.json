@@ -1,0 +1,9 @@
+{
+  "packs": [
+    "cunning-hares-everyday-life.json",
+    "ridu-stroll-1.json",
+    "ridu-stroll-2.json",
+    "ridu-stroll-3.json"
+  ],
+  "homeserver_url": "https://matrix.zuki.live:8008"
+}
